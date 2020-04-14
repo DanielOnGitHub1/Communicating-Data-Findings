@@ -14,4 +14,4 @@ After the exploration efforts, it became clear that the bike trips frequency has
 
 ## Key Insights for Presentation
 
-The presentation was assembled with the goal of providing an easy-to-read and intuitive visualization of the findings. The graphs were chosen taking into consideration their fit to the purpose, with the violin plot possibly representing a more complex view, but which fulfill the necessity of representing the parameter mean in a correct form. Overall, the slides were created to represent two main exploration lines, the trip routes and the users profiles, but also demonstrate regional and accessability findings. 
+The presentation template was assembled with the goal of providing an easy-to-read and intuitive visualization of the findings. The graphs were chosen taking into consideration their fit to the purpose, with the violin plot possibly representing a more complex view, but which fulfill the necessity of representing the parameter mean in a correct form. Overall, the slide template was created to represent two main exploration lines, the trip routes and the users profiles, but also demonstrate regional and accessability findings. 
